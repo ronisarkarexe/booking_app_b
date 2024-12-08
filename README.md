@@ -17,6 +17,14 @@ Instructions on setting up your project locally.
 
 ### Run
 
+#### Before Run
+
+- create .env file
+
+- NODE_ENV = "development"
+- PORT = "port number"
+- DATABASE_URL = "add your db url"
+
 - Run the app using `npm run dev`
 
 ### Happy Coding...!
